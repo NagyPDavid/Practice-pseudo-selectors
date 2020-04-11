@@ -1,0 +1,19 @@
+p {
+    width: 200px;
+    position: relative;
+    margin: 0px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    border-top: 1px;
+}
+p:hover {
+    background-color: lightsalmon;
+}
+    .first{
+    border-top: 0px;
+}
+.last{
+    border-bottom: 0px;
+}
